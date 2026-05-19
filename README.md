@@ -295,11 +295,10 @@ It contains all 105 clean profiles in structured JSON format:
 
 ## 👨‍💻 Author
 
-**Your Name**
-Aspiring Data Scientist | Pure Python Enthusiast
+Data Scientist | Pure Python Enthusiast
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+- 🔗 [LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/bhavik-giri-gauswami))
+- 🐙 [GitHub](https://github.com/Bhavik-Giri)
 
 <br>
 
