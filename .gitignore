@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Auto-generated output file (created when main.py runs)
+data/parsed_profiles.json
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log

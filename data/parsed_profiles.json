@@ -1,0 +1,947 @@
+[
+    {
+        "username": "techie_koramangala",
+        "no_of_posts": 420,
+        "no_of_followers": 9800,
+        "no_of_following": 310,
+        "name": "Arjun M.",
+        "type_of_page": "Software Engineer",
+        "bio": "💻 Full-stack @ SaaS startup\n☕ Working from cafes in Koramangala\ngithub.com/arjunmakes"
+    },
+    {
+        "username": "blrcoder_girl",
+        "no_of_posts": 150,
+        "no_of_followers": 6300,
+        "no_of_following": 120,
+        "name": "Riya Codes",
+        "type_of_page": "Tech Creator",
+        "bio": "👩‍💻 Python | ML | Roadmaps\n🎥 Coding Reels + Daily Motivation\nlinktr.ee/riyacodes"
+    },
+    {
+        "username": "hsr_startup_stories",
+        "no_of_posts": 980,
+        "no_of_followers": 22400,
+        "no_of_following": 95,
+        "name": "Startup Stories HSR",
+        "type_of_page": "Media",
+        "bio": "🚀 Interviews with Bangalore founders\n🎙️ Weekly startup breakdowns\nhsrstartupstories.com"
+    },
+    {
+        "username": "cloud_dev_blr",
+        "no_of_posts": 210,
+        "no_of_followers": 4500,
+        "no_of_following": 60,
+        "name": "Naveen DevOps",
+        "type_of_page": "Engineer",
+        "bio": "☁️ AWS | Docker | K8s\n📍 Sarjapur\ngithub.com/naveencloud"
+    },
+    {
+        "username": "koramangala_coffee_lover",
+        "no_of_posts": 300,
+        "no_of_followers": 7900,
+        "no_of_following": 180,
+        "name": "Sana B.",
+        "type_of_page": "Cafe Explorer",
+        "bio": "☕ Reviewing Bangalore’s hidden coffee spots\n📍 Koramangala\nyoutube.com/@sanacafehunter"
+    },
+    {
+        "username": "ai_bangalore_news",
+        "no_of_posts": 1340,
+        "no_of_followers": 38000,
+        "no_of_following": 200,
+        "name": "AI Bangalore",
+        "type_of_page": "Media",
+        "bio": "🤖 Daily AI news from India\n📢 Startup & research updates\naibanglore.ai/news"
+    },
+    {
+        "username": "techfounder_india",
+        "no_of_posts": 210,
+        "no_of_followers": 19000,
+        "no_of_following": 450,
+        "name": "Dev Patel",
+        "type_of_page": "Founder",
+        "bio": "⚡ Building SaaS in Fintech\n📍 Indiranagar\ndevpatel.io"
+    },
+    {
+        "username": "coder_on_orr",
+        "no_of_posts": 65,
+        "no_of_followers": 1900,
+        "no_of_following": 70,
+        "name": "Sriram",
+        "type_of_page": "Backend Developer",
+        "bio": "🐍 Python | FastAPI enthusiast\n🌧️ Surviving ORR traffic\ngithub.com/sriramworks"
+    },
+    {
+        "username": "blrdatascience_daily",
+        "no_of_posts": 540,
+        "no_of_followers": 15100,
+        "no_of_following": 150,
+        "name": "Bangalore DS Daily",
+        "type_of_page": "Media",
+        "bio": "📊 Data + AI + ML\n👩‍🏫 Tutorials | Job alerts\nblrdatascience.in"
+    },
+    {
+        "username": "frontend_with_megha",
+        "no_of_posts": 175,
+        "no_of_followers": 8200,
+        "no_of_following": 95,
+        "name": "Megha Gupta",
+        "type_of_page": "Frontend Dev",
+        "bio": "🎨 React | Next.js | UI Tips\n🌸 Bengaluru\nmeghacodes.dev"
+    },
+    {
+        "username": "cubbonpark_runner",
+        "no_of_posts": 95,
+        "no_of_followers": 1500,
+        "no_of_following": 40,
+        "name": "Aman",
+        "type_of_page": "Lifestyle",
+        "bio": "🏃 Running after coding\n📍 Cubbon Park\nstrava.com/amanrunning"
+    },
+    {
+        "username": "indiranagar_food_maps",
+        "no_of_posts": 600,
+        "no_of_followers": 12300,
+        "no_of_following": 155,
+        "name": "Food Maps BLR",
+        "type_of_page": "Food & Drink",
+        "bio": "🍜 Maps of best places around Indiranagar\n📍 Bangalore\nfoodmapsblr.com"
+    },
+    {
+        "username": "python_blr_jobs",
+        "no_of_posts": 1200,
+        "no_of_followers": 21000,
+        "no_of_following": 18,
+        "name": "Python Jobs BLR",
+        "type_of_page": "Community",
+        "bio": "💼 Python/ML/AI jobs daily\n📍 Bengaluru\npythonblr.jobs"
+    },
+    {
+        "username": "sarjapur_coder",
+        "no_of_posts": 143,
+        "no_of_followers": 3200,
+        "no_of_following": 52,
+        "name": "Roshan",
+        "type_of_page": "Full-stack Dev",
+        "bio": "🧑‍💻 MERN | DevTools\nCurrently debugging from Sarjapur\nroshancodes.dev"
+    },
+    {
+        "username": "open_source_blr",
+        "no_of_posts": 300,
+        "no_of_followers": 9100,
+        "no_of_following": 78,
+        "name": "BLR Open Source",
+        "type_of_page": "Community",
+        "bio": "🌐 Meetups | Talks | OSS\ngithub.com/blropensource"
+    },
+    {
+        "username": "techwalk_blr",
+        "no_of_posts": 430,
+        "no_of_followers": 11000,
+        "no_of_following": 320,
+        "name": "Tech Walk Bangalore",
+        "type_of_page": "Media",
+        "bio": "🚶 Exploring tech parks & cafes\n📍 Ecoworld | Manyata | Bagmane\ntechwalkblr.com"
+    },
+    {
+        "username": "itpl_daily",
+        "no_of_posts": 590,
+        "no_of_followers": 14200,
+        "no_of_following": 210,
+        "name": "ITPL Daily",
+        "type_of_page": "Blog",
+        "bio": "🏢 Inside Whitefield Tech Life\n🚌 Bus stand stories included\nmedium.com/@itpldaily"
+    },
+    {
+        "username": "react_native_blr",
+        "no_of_posts": 220,
+        "no_of_followers": 4700,
+        "no_of_following": 60,
+        "name": "RN Bangalore",
+        "type_of_page": "Community",
+        "bio": "📱 React Native Tips | Meetups\nrnblr.dev"
+    },
+    {
+        "username": "founder_doodles",
+        "no_of_posts": 80,
+        "no_of_followers": 2300,
+        "no_of_following": 20,
+        "name": "Kushal",
+        "type_of_page": "Artist + Coder",
+        "bio": "✏️ Startup doodles\n💻 YC fanboy\nkushaldraws.com"
+    },
+    {
+        "username": "blrproductmanager",
+        "no_of_posts": 160,
+        "no_of_followers": 6800,
+        "no_of_following": 110,
+        "name": "Sanya | PM",
+        "type_of_page": "Product Manager",
+        "bio": "📍 Koramangala\n🔍 Breaking down apps\nsanyapm.com"
+    },
+    {
+        "username": "machinelearning_blr",
+        "no_of_posts": 490,
+        "no_of_followers": 17800,
+        "no_of_following": 140,
+        "name": "ML Bangalore",
+        "type_of_page": "Community",
+        "bio": "🤖 Workshops | Resources\nmlblr.in"
+    },
+    {
+        "username": "bengaluru_startup_recruiter",
+        "no_of_posts": 135,
+        "no_of_followers": 5900,
+        "no_of_following": 300,
+        "name": "Ankita HR",
+        "type_of_page": "Recruiter",
+        "bio": "🦄 Hiring for early-stage startups\n📍 Indiranagar\nankitarecruits.in"
+    },
+    {
+        "username": "coffeeandcode_blr",
+        "no_of_posts": 77,
+        "no_of_followers": 1400,
+        "no_of_following": 44,
+        "name": "Aditya",
+        "type_of_page": "Developer",
+        "bio": "☕ Coffee + VSCode = Happiness\n📍 HSR\ngithub.com/coffeeandcodeblr"
+    },
+    {
+        "username": "uiux_blr_design",
+        "no_of_posts": 210,
+        "no_of_followers": 9500,
+        "no_of_following": 130,
+        "name": "UI/UX Bangalore",
+        "type_of_page": "Design",
+        "bio": "🎨 Case studies, tips, mock UI\nuiuxblr.design"
+    },
+    {
+        "username": "whitefield_cafe_explorer",
+        "no_of_posts": 480,
+        "no_of_followers": 7600,
+        "no_of_following": 250,
+        "name": "Radhika",
+        "type_of_page": "Cafe Nerd",
+        "bio": "☕ Whitefield cafes & reading corners\n📘 Book recs\ninstareadsblr.com"
+    },
+    {
+        "username": "jslover_bangalore",
+        "no_of_posts": 120,
+        "no_of_followers": 3800,
+        "no_of_following": 32,
+        "name": "Jatin Codes",
+        "type_of_page": "Engineer",
+        "bio": "⚡ JavaScript everything\n📍 MG Road\ngithub.com/jatincodesjs"
+    },
+    {
+        "username": "blrautotechtalk",
+        "no_of_posts": 310,
+        "no_of_followers": 8400,
+        "no_of_following": 260,
+        "name": "AutoTech BLR",
+        "type_of_page": "Media",
+        "bio": "🚗 EVs | Autonomous | Mobility\n📍 Bengaluru\nautotechblr.com"
+    },
+    {
+        "username": "deeptech_india",
+        "no_of_posts": 900,
+        "no_of_followers": 24000,
+        "no_of_following": 290,
+        "name": "DeepTech India",
+        "type_of_page": "Media",
+        "bio": "🛠️ Indian AI + Robotics + Chips\ndeeptechindia.ai"
+    },
+    {
+        "username": "startupdating_blr",
+        "no_of_posts": 140,
+        "no_of_followers": 5000,
+        "no_of_following": 40,
+        "name": "Startup Dating",
+        "type_of_page": "Blog",
+        "bio": "💔 Founders + Investors = Drama\n📍 HSR\nmedium.com/startupdatingblr"
+    },
+    {
+        "username": "codingkannadiga",
+        "no_of_posts": 190,
+        "no_of_followers": 7200,
+        "no_of_following": 150,
+        "name": "Praveen",
+        "type_of_page": "Tech Creator",
+        "bio": "💻 Python + Kannada Tutorials\nyoutube.com/@codingkannadiga"
+    },
+    {
+        "username": "koramangala_hustlers",
+        "no_of_posts": 800,
+        "no_of_followers": 18700,
+        "no_of_following": 300,
+        "name": "Koramangala Hustlers",
+        "type_of_page": "Lifestyle",
+        "bio": "💼 Startups, events, coworks\nkorahustlers.com"
+    },
+    {
+        "username": "mlops_blr",
+        "no_of_posts": 210,
+        "no_of_followers": 6400,
+        "no_of_following": 70,
+        "name": "MLOps Bangalore",
+        "type_of_page": "Community",
+        "bio": "🛠️ ML infra | Deployments\nmlopsblr.in"
+    },
+    {
+        "username": "producthunt_blr",
+        "no_of_posts": 340,
+        "no_of_followers": 10500,
+        "no_of_following": 190,
+        "name": "Product Hunt BLR",
+        "type_of_page": "Media",
+        "bio": "🚀 New launches from Indian builders\nproducthuntblr.com"
+    },
+    {
+        "username": "ai_research_india",
+        "no_of_posts": 170,
+        "no_of_followers": 8800,
+        "no_of_following": 60,
+        "name": "AI Research India",
+        "type_of_page": "Education",
+        "bio": "📄 Papers, datasets, repos\nairesearchindia.org"
+    },
+    {
+        "username": "fullstack_dev_anjali",
+        "no_of_posts": 90,
+        "no_of_followers": 2100,
+        "no_of_following": 35,
+        "name": "Anjali",
+        "type_of_page": "Developer",
+        "bio": "🌈 Full-stack tutorials\n📍 BTM Layout\nanjalicodes.tech"
+    },
+    {
+        "username": "bangalorebikecoder",
+        "no_of_posts": 60,
+        "no_of_followers": 1300,
+        "no_of_following": 30,
+        "name": "Vijay",
+        "type_of_page": "Coder",
+        "bio": "🚴 Cycling to office, coding after\n📍 Bellandur\nstrava.com/vijayblr"
+    },
+    {
+        "username": "codewithchai_blr",
+        "no_of_posts": 110,
+        "no_of_followers": 3400,
+        "no_of_following": 50,
+        "name": "Chai + Code",
+        "type_of_page": "Lifestyle",
+        "bio": "☕ Chai spots + dev stories\nchaiandcode.com"
+    },
+    {
+        "username": "indiranagar_startuplab",
+        "no_of_posts": 220,
+        "no_of_followers": 12000,
+        "no_of_following": 160,
+        "name": "Startup Lab",
+        "type_of_page": "Community",
+        "bio": "🧪 Experiments with early-stage founders\nindiranagarstartuplab.com"
+    },
+    {
+        "username": "pythonforkids_blr",
+        "no_of_posts": 95,
+        "no_of_followers": 2700,
+        "no_of_following": 22,
+        "name": "Python Kids BLR",
+        "type_of_page": "Education",
+        "bio": "👶 Coding classes for kids\npythonforkidsblr.in"
+    },
+    {
+        "username": "devrel_blr",
+        "no_of_posts": 180,
+        "no_of_followers": 7900,
+        "no_of_following": 70,
+        "name": "DevRel Bangalore",
+        "type_of_page": "Community",
+        "bio": "🎤 Talks | Dev advocacy | Tools\ndevrelblr.org"
+    },
+    {
+        "username": "techpark_memes",
+        "no_of_posts": 350,
+        "no_of_followers": 16000,
+        "no_of_following": 250,
+        "name": "Tech Park Memes",
+        "type_of_page": "Comedy",
+        "bio": "😂 Jokes from Ecospace, Manyata & more\nbit.ly/techparkmemes"
+    },
+    {
+        "username": "hsr_designstudio",
+        "no_of_posts": 400,
+        "no_of_followers": 9400,
+        "no_of_following": 280,
+        "name": "HSR Design Studio",
+        "type_of_page": "Design",
+        "bio": "🖌️ Freelance UI/UX\n📍 HSR\nhsrdesignstudio.in"
+    },
+    {
+        "username": "kaggler_blr",
+        "no_of_posts": 130,
+        "no_of_followers": 4200,
+        "no_of_following": 40,
+        "name": "Kaggle Bangalore",
+        "type_of_page": "Data Science",
+        "bio": "📊 Competitions, kernels\nkagglerblr.com"
+    },
+    {
+        "username": "datascience_rider",
+        "no_of_posts": 75,
+        "no_of_followers": 1600,
+        "no_of_following": 33,
+        "name": "Naman",
+        "type_of_page": "Data Scientist",
+        "bio": "🏍️ Rides + ML\n📍 Indiranagar\nnamanml.dev"
+    },
+    {
+        "username": "bootcamp_blr",
+        "no_of_posts": 310,
+        "no_of_followers": 8600,
+        "no_of_following": 80,
+        "name": "Bangalore Bootcamp",
+        "type_of_page": "Education",
+        "bio": "👩‍💻 Coding bootcamps & workshops\nbootcampblr.in"
+    },
+    {
+        "username": "buildinpublic_blr",
+        "no_of_posts": 270,
+        "no_of_followers": 6200,
+        "no_of_following": 50,
+        "name": "Build in Public BLR",
+        "type_of_page": "Community",
+        "bio": "📈 Indie hackers & SaaS founders\nbuildinpublicblr.com"
+    },
+    {
+        "username": "intaglobal",
+        "no_of_posts": 1946,
+        "no_of_followers": 6851,
+        "no_of_following": 262,
+        "name": "INTA",
+        "type_of_page": "Nonprofit organization",
+        "bio": "The association of ™ professionals.\ninta.campsite.bio"
+    },
+    {
+        "username": "_anujsinghal",
+        "no_of_posts": 1785,
+        "no_of_followers": 681000,
+        "no_of_following": 248,
+        "name": "Anuj Singhal",
+        "type_of_page": "Digital creator",
+        "bio": "Managing Editor, CNBC-Awaaz. Most trusted and followed biz anchor in India\nLet’s talk about finance and life\nContact: Singhalanuj1010@gmail.com\nhindi.cnbctv18.com/market-gurukul"
+    },
+    {
+        "username": "code_flare",
+        "no_of_posts": 165,
+        "no_of_followers": 216,
+        "no_of_following": 10,
+        "name": "The Journey Notebook | Travel | Food Blogger",
+        "type_of_page": "Blogger",
+        "bio": "📍 Exploring places & phases of life 🌍\n.\n🍵 From chai breaks to flight takes ✈️\n.\n💫 Travel | Food | Daily life 🌸\nyoutube.com/@thejourneynotebook?si=Z1lPUAl-cPgHAP_a"
+    },
+    {
+        "username": "bangalore_tech_bro",
+        "no_of_posts": 402,
+        "no_of_followers": 12500,
+        "no_of_following": 890,
+        "name": "Rahul | HSR Hustler",
+        "type_of_page": "Entrepreneur",
+        "bio": "🚀 Building the next Unicorn in Fintech\n☕ 3rd Wave Coffee addict\n💻 Python | React | AI\n📍 HSR Layout, BLR\nlinktr.ee/rahulbuilds"
+    },
+    {
+        "username": "silkboard_survivor",
+        "no_of_posts": 55,
+        "no_of_followers": 1200,
+        "no_of_following": 50,
+        "name": "Priya D.",
+        "type_of_page": "Public Figure",
+        "bio": "🚦 Stuck in traffic since 2019\n🌧️ Loving the Bangalore weather, hating the cabs\n🐍 Data Scientist by day, meme maker by night\n📍 ORR\nbit.ly/my-traffic-rants"
+    },
+    {
+        "username": "startuphub_blr",
+        "no_of_posts": 2300,
+        "no_of_followers": 45000,
+        "no_of_following": 120,
+        "name": "Startup Hub Bangalore",
+        "type_of_page": "Media",
+        "bio": "🦄 News from the Silicon Valley of India\n📢 Funding alerts, Hiring trends, and Drama\n📩 DM for features\nstartuphub.blr/newsletter"
+    },
+    {
+        "username": "foodie_in_kora",
+        "no_of_posts": 890,
+        "no_of_followers": 5600,
+        "no_of_following": 400,
+        "name": "Sneha | Bangalore Eats",
+        "type_of_page": "Food & Drink",
+        "bio": "Aagrah to Truffles 🍔\nExploring Koramangala's cafe culture ☕\nDM for collabs\nhttps://www.google.com/search?q=zomato.com/users/sneha123"
+    },
+    {
+        "username": "venture_vikram",
+        "no_of_posts": 120,
+        "no_of_followers": 30000,
+        "no_of_following": 500,
+        "name": "Vikram | Angel Investor",
+        "type_of_page": "Investor",
+        "bio": "💸 Helping founders go 0 to 1\nEx-Google, Ex-Amazon\nInvesting in DeepTech & AI\n📍 Indiranagar\nvikram.vc/pitch-deck"
+    },
+    {
+        "username": "python_meetup_blr",
+        "no_of_posts": 60,
+        "no_of_followers": 3400,
+        "no_of_following": 10,
+        "name": "PyBangalore Community",
+        "type_of_page": "Community",
+        "bio": "🐍 Weekly meetups for Pythonistas\n📍 Cubbon Park | Sundays 4 PM\nCoding + Coffee + Community\nhttps://www.google.com/search?q=meetup.com/pybangalore"
+    },
+    {
+        "username": "indiranagar_gossip",
+        "no_of_posts": 300,
+        "no_of_followers": 8900,
+        "no_of_following": 20,
+        "name": "Indiranagar Spy",
+        "type_of_page": "Personal Blog",
+        "bio": "Not just about 100ft Road 🤫\nSpilling tea on the best brunches and worst landlords\nBengaluru\nhttps://www.google.com/search?q=medium.com/%40indiranagarspy"
+    },
+    {
+        "username": "techtrail_blr",
+        "no_of_posts": 340,
+        "no_of_followers": 9100,
+        "no_of_following": 210,
+        "name": "Tech Trail Bangalore",
+        "type_of_page": "Media",
+        "bio": "🚀 Startup scoops & tech tales\n💡 Covering Koramangala, HSR & Indiranagar\n📍 BLR\nlinktr.ee/techtrailblr"
+    },
+    {
+        "username": "koramangala_coder",
+        "no_of_posts": 120,
+        "no_of_followers": 2800,
+        "no_of_following": 95,
+        "name": "Kora Coder",
+        "type_of_page": "Personal Blog",
+        "bio": "💻 Daily coding challenges\n☕ Cafe-hopping + LeetCode\n📍 Koramangala\n[https://www.google.com/search?q=koramangala+coder](https://www.google.com/search?q=koramangala+coder)"
+    },
+    {
+        "username": "blrcowork_chronicles",
+        "no_of_posts": 480,
+        "no_of_followers": 6700,
+        "no_of_following": 180,
+        "name": "Cowork Chronicles BLR",
+        "type_of_page": "Community",
+        "bio": "🏢 Exploring coworking spaces\n👨‍💻 For freelancers & founders\n📍 Bellandur\nbit.ly/cowork-chronicles"
+    },
+    {
+        "username": "devhub_koramangala",
+        "no_of_posts": 210,
+        "no_of_followers": 4500,
+        "no_of_following": 60,
+        "name": "DevHub Koramangala",
+        "type_of_page": "Community",
+        "bio": "👨‍💻 Nightly coding jams\n📚 React | Python | AI\n📍 Koramangala 5th Block\n[https://www.google.com/search?q=devhub+koramangala](https://www.google.com/search?q=devhub+koramangala)"
+    },
+    {
+        "username": "ai_bengaluru",
+        "no_of_posts": 150,
+        "no_of_followers": 15200,
+        "no_of_following": 140,
+        "name": "AI Bengaluru",
+        "type_of_page": "Tech",
+        "bio": "🤖 AI trends, events & demos\n📍 BLR\nai-blr.tech"
+    },
+    {
+        "username": "frontend_blr",
+        "no_of_posts": 95,
+        "no_of_followers": 3900,
+        "no_of_following": 30,
+        "name": "Frontend BLR",
+        "type_of_page": "Community",
+        "bio": "🎨 UI/UX | Web Dev | Tailwind\n📍 Indiranagar\n[https://www.google.com/search?q=frontendblr](https://www.google.com/search?q=frontendblr)"
+    },
+    {
+        "username": "python_wallah_blr",
+        "no_of_posts": 80,
+        "no_of_followers": 1700,
+        "no_of_following": 40,
+        "name": "Python Wallah BLR",
+        "type_of_page": "Educator",
+        "bio": "🐍 Python tips daily\n📍 BTM Layout\npythonwallah.in"
+    },
+    {
+        "username": "btm_dev_cafe",
+        "no_of_posts": 140,
+        "no_of_followers": 2200,
+        "no_of_following": 120,
+        "name": "Dev Café BTM",
+        "type_of_page": "Community",
+        "bio": "☕ Coffee + Code sessions\n📍 BTM Layout\nlinktr.ee/btmdevcafe"
+    },
+    {
+        "username": "blrautomation_club",
+        "no_of_posts": 90,
+        "no_of_followers": 5800,
+        "no_of_following": 65,
+        "name": "Automation Club BLR",
+        "type_of_page": "Community",
+        "bio": "🛠️ RPA | Python Scripts | AI\n📍 KR Puram\n[https://www.google.com/search?q=blrautomationclub](https://www.google.com/search?q=blrautomationclub)"
+    },
+    {
+        "username": "coding_koramangala",
+        "no_of_posts": 70,
+        "no_of_followers": 1350,
+        "no_of_following": 15,
+        "name": "Coding Koramangala",
+        "type_of_page": "Community",
+        "bio": "👨‍💻 Weekly coding walks\n📍 Koramangala\nbit.ly/coding-kormangala"
+    },
+    {
+        "username": "devlife_bangalore",
+        "no_of_posts": 430,
+        "no_of_followers": 18000,
+        "no_of_following": 450,
+        "name": "DevLife Bangalore",
+        "type_of_page": "Blog",
+        "bio": "💼 Life of BLR developers\n☕ Cafes, layoffs & chai\ndevlifeblr.medium.com"
+    },
+    {
+        "username": "cloud_blr",
+        "no_of_posts": 160,
+        "no_of_followers": 9400,
+        "no_of_following": 210,
+        "name": "Cloud BLR",
+        "type_of_page": "Tech",
+        "bio": "☁️ Cloud + DevOps content\n📍 Electronic City\ncloudblr.dev"
+    },
+    {
+        "username": "electroniccity_coder",
+        "no_of_posts": 100,
+        "no_of_followers": 3100,
+        "no_of_following": 55,
+        "name": "ECity Coder",
+        "type_of_page": "Personal Blog",
+        "bio": "💻 Python backend dev\n📍 E-city Phase 1\n[https://www.google.com/search?q=ecity+coder](https://www.google.com/search?q=ecity+coder)"
+    },
+    {
+        "username": "bangalore_datascience_club",
+        "no_of_posts": 240,
+        "no_of_followers": 12700,
+        "no_of_following": 110,
+        "name": "BLR Data Science Club",
+        "type_of_page": "Community",
+        "bio": "📊 ML sessions + Kaggle nights\n📍 MG Road WeWork\ndatascienceblr.club"
+    },
+    {
+        "username": "blrmobiledevs",
+        "no_of_posts": 130,
+        "no_of_followers": 4200,
+        "no_of_following": 80,
+        "name": "BLR Mobile Devs",
+        "type_of_page": "Community",
+        "bio": "📱 Flutter | React Native\n📍 Indiranagar\n[https://www.google.com/search?q=blrmobiledevs](https://www.google.com/search?q=blrmobiledevs)"
+    },
+    {
+        "username": "react_bangalore",
+        "no_of_posts": 300,
+        "no_of_followers": 14000,
+        "no_of_following": 200,
+        "name": "React Bangalore",
+        "type_of_page": "Community",
+        "bio": "⚛️ React meetups & workshops\n📍 BLR\nreactblr.dev"
+    },
+    {
+        "username": "devs_of_whitefield",
+        "no_of_posts": 190,
+        "no_of_followers": 6600,
+        "no_of_following": 150,
+        "name": "Whitefield Devs",
+        "type_of_page": "Community",
+        "bio": "💻 Tech + productivity\n📍 Whitefield\nwhitefielddevs.in"
+    },
+    {
+        "username": "indiranagar_debugger",
+        "no_of_posts": 75,
+        "no_of_followers": 2000,
+        "no_of_following": 30,
+        "name": "Indiranagar Debugger",
+        "type_of_page": "Blog",
+        "bio": "🐞 Debugging life & code\n📍 Indiranagar\nbit.ly/indiranagar-debugger"
+    },
+    {
+        "username": "koramangala_ai_meet",
+        "no_of_posts": 85,
+        "no_of_followers": 7400,
+        "no_of_following": 22,
+        "name": "Kora AI Meet",
+        "type_of_page": "Community",
+        "bio": "🤖 AI jam sessions\n📍 Koramangala 1st Block\nkora-ai.club"
+    },
+    {
+        "username": "blrit_guy",
+        "no_of_posts": 230,
+        "no_of_followers": 5300,
+        "no_of_following": 200,
+        "name": "BLR IT Guy",
+        "type_of_page": "Public Figure",
+        "bio": "💼 Big Tech employee life\n📍 Manyata Tech Park\n[https://www.google.com/search?q=blr+it+guy](https://www.google.com/search?q=blr+it+guy)"
+    },
+    {
+        "username": "startup_grind_bangalore",
+        "no_of_posts": 1100,
+        "no_of_followers": 38000,
+        "no_of_following": 420,
+        "name": "Startup Grind Bangalore",
+        "type_of_page": "Community",
+        "bio": "🔥 Founder wisdom + events\n📍 BLR\nstartupgrind.com/bangalore"
+    },
+    {
+        "username": "coding_in_indiranagar",
+        "no_of_posts": 60,
+        "no_of_followers": 1100,
+        "no_of_following": 25,
+        "name": "Coding in Indiranagar",
+        "type_of_page": "Personal Blog",
+        "bio": "👨‍💻 Python & JS notes\n📍 100ft Road\nbit.ly/coding-indiranagar"
+    },
+    {
+        "username": "devwalk_blr",
+        "no_of_posts": 50,
+        "no_of_followers": 900,
+        "no_of_following": 15,
+        "name": "Dev Walk BLR",
+        "type_of_page": "Community",
+        "bio": "🚶‍♂️ Walk + talk tech\n📍 Lalbagh\ndevwalk.in"
+    },
+    {
+        "username": "bellandur_bug_hunter",
+        "no_of_posts": 110,
+        "no_of_followers": 3900,
+        "no_of_following": 75,
+        "name": "Bellandur Bug Hunter",
+        "type_of_page": "Blog",
+        "bio": "🐛 QA life in BLR\n📍 Bellandur\ntinyurl.com/bughunterblr"
+    },
+    {
+        "username": "blrcoders_space",
+        "no_of_posts": 340,
+        "no_of_followers": 25000,
+        "no_of_following": 300,
+        "name": "BLR Coders Space",
+        "type_of_page": "Community",
+        "bio": "👨‍💻 Coding news, memes\n📍 BLR\nblrcoders.space"
+    },
+    {
+        "username": "nextjs_blr",
+        "no_of_posts": 45,
+        "no_of_followers": 2300,
+        "no_of_following": 40,
+        "name": "Next.js Bangalore",
+        "type_of_page": "Community",
+        "bio": "⚡ Modern web dev meetups\n📍 MG Road\nnextjsblr.dev"
+    },
+    {
+        "username": "techpark_musings",
+        "no_of_posts": 130,
+        "no_of_followers": 6000,
+        "no_of_following": 100,
+        "name": "Tech Park Musings",
+        "type_of_page": "Blog",
+        "bio": "🏢 Manyata | EcoSpace | Bagmane\n📍 Bangalore\nmedium.com/@techparkmusings"
+    },
+    {
+        "username": "koramangala_freelancers",
+        "no_of_posts": 200,
+        "no_of_followers": 4000,
+        "no_of_following": 70,
+        "name": "Koramangala Freelancers",
+        "type_of_page": "Community",
+        "bio": "💻 Remote work + gigs\n📍 Koramangala\nkorafreelancers.co"
+    },
+    {
+        "username": "blronlinejobs",
+        "no_of_posts": 560,
+        "no_of_followers": 21000,
+        "no_of_following": 190,
+        "name": "BLR Online Jobs",
+        "type_of_page": "Media",
+        "bio": "💼 Hiring in tech daily\n📍 BLR\nblronlinejobs.in"
+    },
+    {
+        "username": "datascience_daily_blr",
+        "no_of_posts": 150,
+        "no_of_followers": 8800,
+        "no_of_following": 140,
+        "name": "DS Daily BLR",
+        "type_of_page": "Education",
+        "bio": "📊 ML tricks & resources\n📍 BLR\ndsdailyblr.com"
+    },
+    {
+        "username": "python_koramangala",
+        "no_of_posts": 42,
+        "no_of_followers": 850,
+        "no_of_following": 12,
+        "name": "Python Koramangala",
+        "type_of_page": "Community",
+        "bio": "🐍 Weekly Python tasks\n📍 Koramangala\nbit.ly/python-kora"
+    },
+    {
+        "username": "coding_chai_bangalore",
+        "no_of_posts": 280,
+        "no_of_followers": 10000,
+        "no_of_following": 230,
+        "name": "Coding Chai",
+        "type_of_page": "Blog",
+        "bio": "☕ Code + chai\n📍 JP Nagar\ncodingchai.in"
+    },
+    {
+        "username": "blrgitcommunity",
+        "no_of_posts": 75,
+        "no_of_followers": 3200,
+        "no_of_following": 20,
+        "name": "Git Community BLR",
+        "type_of_page": "Tech",
+        "bio": "🔧 Git tips & collab sessions\n📍 BLR\ngitblr.dev"
+    },
+    {
+        "username": "indiranagar_startups",
+        "no_of_posts": 320,
+        "no_of_followers": 12500,
+        "no_of_following": 100,
+        "name": "Indiranagar Startups",
+        "type_of_page": "Media",
+        "bio": "🦄 Spotlight on early-stage founders\n📍 Indiranagar\nindiranagarstartups.in"
+    },
+    {
+        "username": "koramangala_script_kiddie",
+        "no_of_posts": 55,
+        "no_of_followers": 1050,
+        "no_of_following": 18,
+        "name": "Script Kiddie Kora",
+        "type_of_page": "Personal Blog",
+        "bio": "💻 Learning Python & JS\n📍 Koramangala\n[https://www.google.com/search?q=script+kiddie+kora](https://www.google.com/search?q=script+kiddie+kora)"
+    },
+    {
+        "username": "hsr_dev_buddy",
+        "no_of_posts": 120,
+        "no_of_followers": 2700,
+        "no_of_following": 40,
+        "name": "HSR Dev Buddy",
+        "type_of_page": "Community",
+        "bio": "👨‍💻 Peer learning club\n📍 HSR Layout\nhsrdevbuddy.in"
+    },
+    {
+        "username": "blrcloudhackers",
+        "no_of_posts": 140,
+        "no_of_followers": 7900,
+        "no_of_following": 200,
+        "name": "BLR Cloud Hackers",
+        "type_of_page": "Tech",
+        "bio": "☁️ AWS | Azure | GCP\n📍 BLR\ncloudhackers.in"
+    },
+    {
+        "username": "techwriter_blr",
+        "no_of_posts": 60,
+        "no_of_followers": 1900,
+        "no_of_following": 50,
+        "name": "BLR Tech Writer",
+        "type_of_page": "Writer",
+        "bio": "📝 Tech explainers\n📍 Bangalore\nmedium.com/@blrtechwriter"
+    },
+    {
+        "username": "dev_canteen_koramangala",
+        "no_of_posts": 180,
+        "no_of_followers": 5400,
+        "no_of_following": 120,
+        "name": "Dev Canteen",
+        "type_of_page": "Community",
+        "bio": "🍔 Food + code meetups\n📍 Koramangala\ndevcanteen.in"
+    },
+    {
+        "username": "pythonlady_blr",
+        "no_of_posts": 70,
+        "no_of_followers": 4200,
+        "no_of_following": 35,
+        "name": "Python Lady BLR",
+        "type_of_page": "Educator",
+        "bio": "🐍 Python + data tutorials\n📍 Indiranagar\npythonlady.in"
+    },
+    {
+        "username": "bangalore_oss",
+        "no_of_posts": 250,
+        "no_of_followers": 9800,
+        "no_of_following": 90,
+        "name": "Bangalore Open Source",
+        "type_of_page": "Community",
+        "bio": "🛠️ OSS projects & contributions\n📍 BLR\nossblr.dev"
+    },
+    {
+        "username": "blr_ai_founders",
+        "no_of_posts": 85,
+        "no_of_followers": 6600,
+        "no_of_following": 70,
+        "name": "BLR AI Founders",
+        "type_of_page": "Entrepreneur",
+        "bio": "🤖 AI startup builders\n📍 Indiranagar\naifoundersblr.com"
+    },
+    {
+        "username": "coders_of_bangalore",
+        "no_of_posts": 300,
+        "no_of_followers": 17000,
+        "no_of_following": 280,
+        "name": "Coders of Bangalore",
+        "type_of_page": "Community",
+        "bio": "👨‍💻 Showcasing BLR devs\n📍 BLR\ncodersofbangalore.in"
+    },
+    {
+        "username": "dailydev_bangalore",
+        "no_of_posts": 180,
+        "no_of_followers": 12200,
+        "no_of_following": 200,
+        "name": "Daily Dev Bangalore",
+        "type_of_page": "Tech",
+        "bio": "📝 Tips | Tools | Tutorials\n📍 BLR\ndailydevblr.co"
+    },
+    {
+        "username": "bangalore_backend",
+        "no_of_posts": 90,
+        "no_of_followers": 4800,
+        "no_of_following": 60,
+        "name": "BLR Backend Devs",
+        "type_of_page": "Tech",
+        "bio": "🔧 Python | Go | Node\n📍 BLR\nbackendblr.tech"
+    },
+    {
+        "username": "ecity_techies",
+        "no_of_posts": 140,
+        "no_of_followers": 3900,
+        "no_of_following": 55,
+        "name": "E-city Techies",
+        "type_of_page": "Community",
+        "bio": "💼 Tech park life\n📍 Electronic City\necitytechies.in"
+    },
+    {
+        "username": "fullstack_blr_club",
+        "no_of_posts": 110,
+        "no_of_followers": 7200,
+        "no_of_following": 85,
+        "name": "Fullstack BLR Club",
+        "type_of_page": "Community",
+        "bio": "💻 MERN | Python | DevOps\n📍 JP Nagar\nfullstackblr.club"
+    },
+    {
+        "username": "coding_runners_blr",
+        "no_of_posts": 100,
+        "no_of_followers": 2500,
+        "no_of_following": 35,
+        "name": "Coding Runners",
+        "type_of_page": "Community",
+        "bio": "🏃‍♂️ Running + coding\n📍 Cubbon Park\ncodingrunners.in"
+    },
+    {
+        "username": "bangalore_engineers_diary",
+        "no_of_posts": 270,
+        "no_of_followers": 8500,
+        "no_of_following": 120,
+        "name": "Engineers Diary BLR",
+        "type_of_page": "Blog",
+        "bio": "📘 Life & tech rants\n📍 BLR\nmedium.com/@engineersdiaryblr"
+    }
+]

@@ -1,0 +1,12 @@
+# Social-Data-Insights — Requirements
+# ─────────────────────────────────────
+# This project uses ONLY Python's standard library.
+# No external packages need to be installed.
+#
+# Standard library modules used:
+#   - json   (loading and saving JSON data)
+#   - os     (building file paths across OS)
+#
+# Python version required: 3.7+
+# ─────────────────────────────────────
+# No dependencies.
