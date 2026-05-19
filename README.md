@@ -59,7 +59,7 @@ Social-Data-Insights/
 
 ---
 
-## 🧠 Part 1 — CodeBook Recommendation Engine
+## 🧠 Part 1 — Social-media Recommendation Engine
 
 ### Dataset
 A JSON social graph of **30 users** and **27 pages** (CodeBook — a fictional social platform for coders). Each user has a list of friends (by ID) and liked pages (by ID).
@@ -123,7 +123,7 @@ Before running recommendations, the raw data is cleaned:
 
 ---
 
-## 📊 Part 2 — Coders of Bangalore: Instagram Analytics
+## 📊 Part 2 — Instagram Analytics
 
 ### Dataset
 **107 raw Instagram profiles** manually collected from the Bangalore tech community (OpenAI followers). Data stored as plain text — one profile block per entry, separated by blank lines.
